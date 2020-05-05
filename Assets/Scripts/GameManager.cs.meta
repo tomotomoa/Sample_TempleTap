@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 75978d60ebacee14ead132cf50dc4b08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orbPrefab: {fileID: 1121455742626551913, guid: 179297e3fa2c7f4419b409ba26a5dce2,
+      type: 3}
+  - smokePrefab: {fileID: 8883975565936883570, guid: 6ca9d16c531ec804d900b23596683d2e,
+      type: 3}
+  - kusudamaPrefab: {fileID: 6764020123716017557, guid: cebae9d61da13a943a10dfe93b62cb84,
+      type: 3}
+  - canvasGame: {instanceID: 0}
+  - textScore: {instanceID: 0}
+  - imageTemple: {instanceID: 0}
+  - imageMokugyo: {instanceID: 0}
+  - getScoreSE: {instanceID: 0}
+  - levelUpSE: {instanceID: 0}
+  - clearSE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
